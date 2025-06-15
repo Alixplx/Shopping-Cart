@@ -1,0 +1,39 @@
+[
+
+    {
+
+        "id": 1,
+        "name": "Dell",
+        "price": 500.99,
+        "imgUrl": "/imgs/dell.jpeg"
+    },
+    {
+
+        "id": 2,
+        "name": "Hp",
+        "price": 400.99,
+        "imgUrl": "/imgs/hp.jpeg"
+    },
+    {
+
+        "id": 3,
+        "name": "MSI",
+        "price": 1000.99,
+        "imgUrl": "/imgs/msi.jpeg"
+    },
+    {
+
+        "id": 4,
+        "name": "Lenovo",
+        "price": 200.99,
+        "imgUrl": "/imgs/lenovo.jpeg"
+    },
+    {
+
+        "id": 5,
+        "name": "Mac",
+        "price": 300.99,
+        "imgUrl": "/imgs/mac.jpeg"
+    }
+
+]
